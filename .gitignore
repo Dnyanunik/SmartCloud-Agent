@@ -1,0 +1,11 @@
+# Ignore the API Key and environment files
+.env
+__pycache__/
+
+# Ignore the local database and generated files
+cloud_history.db
+generated_code.py
+
+# Ignore virtual environments
+venv/
+.venv/
